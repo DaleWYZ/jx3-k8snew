@@ -1,0 +1,4 @@
+ingress:
+  customHosts:
+    hook: "hook-jx.wyz.k3s.com"
+
